@@ -1,7 +1,7 @@
 # The art of the Shade
 
 ## About this list
-The following is a compilation of the best resources I have found in my way to learn how to program the amazing [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language). If you are planning to take shaders from a broader aproach you might find [this compilation for webgl](https://github.com/sjfricke/awesome-webgl) or [this one for opengl](https://github.com/eug/awesome-opengl) more usefull.
+The following is a compilation of the best resources I have found in my way to learn how to program the amazing [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language). If you are planning to take shaders from a broader aproach you might find [this compilation for webgl](https://github.com/sjfricke/awesome-webgl) or [this one for opengl](https://github.com/eug/awesome-opengl) more useful.
 
 ## Contents
 * [Tutorials](#tutorials)
@@ -15,10 +15,13 @@ The following is a compilation of the best resources I have found in my way to l
 ## Tutorials
 * [The book of Shaders](https://thebookofshaders.com/) - Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 * [CG from Scratch!](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading/) - Learn Computer Graphics From
+* [Primer:Shaders](https://notes.underscorediscovery.com/shaders-a-primer/) - Brief and comprehensible introduction to shaders.
 * [Tutorial inside Shadertoy](https://www.shadertoy.com/view/Md23DV) - Tutorial Series made inside Shadertoy GLSL editor
 * [Shader School](https://github.com/stackgl/shader-school) - A workshopper for GLSL shaders and graphics programming
+* [Shaders Chapter](http://antongerdelan.net/opengl/shaders.html) - Chapter that focuses on shaders with OpenGL
 
 ## Sites
+* [Stack.gl](http://stack.gl/) - Site that approaches Shaders from WebGL
 
 ## Editors
 * [Shadertoy](http://shadertoy.com) - Build and share your best shaders with the world and get inspired.
