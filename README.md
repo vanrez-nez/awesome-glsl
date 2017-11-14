@@ -19,8 +19,8 @@ The following is a compilation of the best resources I have found in my way to l
 * [Shader School](https://github.com/stackgl/shader-school) - A workshopper for GLSL shaders and graphics programming
 
 ## Sites
-## Editors
 
+## Editors
 * [Shadertoy](http://shadertoy.com) - Build and share your best shaders with the world and get inspired.
 * [GLSL Sandbox](http://glslsandbox.com) - Fullscreen editor with preview as the background and galleries.
 * [GLSLbin](http://glslb.in) - A fragment shader sandbox.
@@ -35,3 +35,11 @@ The following is a compilation of the best resources I have found in my way to l
 ## Tools
 * https://renderdoc.org/builds
 ## People
+## Related Lists
+* [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
+* [awesome-opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and resources.
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
+* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development.
+* [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
+
