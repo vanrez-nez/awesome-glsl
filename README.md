@@ -20,16 +20,16 @@ The following is a compilation of the best resources I have found in my way to l
 
 ## Sites
 ## Editors
-[Shadertoy](http://shadertoy.com) - Build and share your best shaders with the world and get inspired.
-[GLSL Sandbox](http://glslsandbox.com) - Fullscreen editor with preview as the background and galleries.
-[GLSLbin](http://glslb.in) - A fragment shader sandbox.
-[Fragment](http://www.syedrezaali.com/store/fragment-osx-app) - Desktop Application that utilizes GLSL and live coding to allow anyone to create spectacular imagery with math(s)! 
-[Shdr](http://shdr.bkcore.com/) - An online ESSL (GLSL) shader editor, viewer and validator powered by WebGL.
-[PixelShaders](http://pixelshaders.com/) - An Interactive Introduction to Graphics Programming.
-[The Force](https://shawnlawson.github.io/The_Force/) - Open Source IDE by Shawn Lawson
+* [Shadertoy](http://shadertoy.com) - Build and share your best shaders with the world and get inspired.
+* [GLSL Sandbox](http://glslsandbox.com) - Fullscreen editor with preview as the background and galleries.
+* [GLSLbin](http://glslb.in) - A fragment shader sandbox.
+* [Fragment](http://www.syedrezaali.com/store/fragment-osx-app) - Desktop Application that utilizes GLSL and live coding to allow anyone to create spectacular imagery with math(s)! 
+* [Shdr](http://shdr.bkcore.com/) - An online ESSL (GLSL) shader editor, viewer and validator powered by WebGL.
+* [PixelShaders](http://pixelshaders.com/) - An Interactive Introduction to Graphics Programming.
+* [The Force](https://shawnlawson.github.io/The_Force/) - Open Source IDE by Shawn Lawson
 
 ## Articles
 ## Books
 ## Tools
-https://renderdoc.org/builds
+* https://renderdoc.org/builds
 ## People
