@@ -50,7 +50,8 @@ The following is a compilation of the best resources I have found in my way to l
 * [GLSLViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Live GLSL coding render for MacOS and Linux.
 
 ## People
-[Patricio Gonzales Vivo](http://patriciogonzalezvivo.com/) - Main contributor for the magnificent learning site "The book of shaders"
+* [Patricio Gonzales Vivo](http://patriciogonzalezvivo.com/) - Main contributor for the magnificent learning site "The book of shaders"
+* [Íñigo Quílez](http://iquilezles.org/index.html) - Hardcore math applied to computer graphics, one of the best shader makers out there. [ShaderToy Profile](https://www.shadertoy.com/user/iq)
 
 ## Related Lists
 * [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
