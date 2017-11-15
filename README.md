@@ -51,7 +51,8 @@ The following is a compilation of the best resources I have found in my way to l
 
 ## People
 * [Patricio Gonzales Vivo](http://patriciogonzalezvivo.com/) - Main contributor for the magnificent learning site "The book of shaders"
-* [Íñigo Quílez](http://iquilezles.org/index.html) - Hardcore math applied to computer graphics, one of the best shader makers out there. [ShaderToy Profile](https://www.shadertoy.com/user/iq)
+* [Íñigo Quílez](http://iquilezles.org/index.html) - Hardcore math applied to computer graphics, one of the best shader makers out there. [ST Profile](https://www.shadertoy.com/user/iq)
+* [Anatole Drupat (XT95)](http://www.aduprat.com/) - Recognized shader artist with a big trajectory [ST Profile](https://www.shadertoy.com/user/XT95)
 
 ## Related Lists
 * [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
