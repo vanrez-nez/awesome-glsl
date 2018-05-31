@@ -20,6 +20,7 @@ The following is a compilation of the best resources I have found in my way to l
 * [Shaders Chapter](http://antongerdelan.net/opengl/shaders.html) - Chapter that focuses on shaders with OpenGL
 * [TyphoonLabs](https://www.opengl.org/sdk/docs/tutorials/TyphoonLabs/) - 5 PDF chapters from Jacobo Rodriguez Villar that go from history to advanced topics.
 * [Shaders with lwjgl](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) - 6 brief but comprehensive lessons by Matt DesLauriers
+* [TutsPlus Series](https://gamedevelopment.tutsplus.com/categories/shaders) - A series of articles featuring implementations with WebGL and live code examples.
 
 ## Sites
 * [Khronos wiki reference](https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language) - The official wiki that describes in a very formal way how GLSL works.
