@@ -48,6 +48,7 @@ The following is a compilation of the best resources I have found in my way to l
 * [Primer:Shaders](https://notes.underscorediscovery.com/shaders-a-primer/) - Brief and comprehensible introduction to shaders.
 * [WebGL Shaders Intro](https://gamedevelopment.tutsplus.com/tutorials/getting-started-in-webgl-part-1-introduction-to-shaders--cms-26208) - A fliendly introduction.
 * [Ray Marching](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) Jamie Wong gives a great introduction to Ray Marching and Signed Distance Functions
+* [Color Correction](https://timseverien.com/posts/2020-06-19-colour-correction-with-webgl/) Great expanation about how colour manupulation works by Tim Severien
 
 ## Books
 ## Tools
