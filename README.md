@@ -36,12 +36,14 @@ The following is a compilation of the best resources I have found in my way to l
 * [Vertex Shader Art](https://www.vertexshaderart.com) - Vertex shader's gallery and coding playground.
 * [ShaderFrog](https://shaderfrog.com/) - Design shaders without writing code.
 * [Babylon CYOS](https://cyos.babylonjs.com/) - Create Your Own Shader.
-* [Fragment](http://www.syedrezaali.com/store/fragment-osx-app) - Desktop Application that utilizes GLSL and live coding to allow anyone to create spectacular imagery with math(s)! 
+* [Fragment](http://www.syedrezaali.com/store/fragment-osx-app) - Desktop Application that utilizes GLSL and live coding to allow anyone to create spectacular imagery with math(s)! (No longer available)
 * [Shdr](http://shdr.bkcore.com/) - An online ESSL (GLSL) shader editor, viewer and validator powered by WebGL.
 * [PixelShaders](http://pixelshaders.com/) - An Interactive Introduction to Graphics Programming.
 * [The Force](https://shawnlawson.github.io/The_Force/) - Open Source IDE by Shawn Lawson
 * [Kick.js Shader Editor](http://www.kickjs.org/tool/shader_editor/shader_editor.html) - Formal Tool the WebGL engine Kick.js
 * [Shader Gif](https://shadergif.com) - ShaderGif is a free and open source home for art made with code. Make sure not to miss the [gallery](https://shadergif.com/feed).
+* [KodeLife](https://hexler.net/kodelife) - Desktop and mobile GLSL real-time editor.
+* [Vertex Shader Art](https://www.vertexshaderart.com/) - Vertex Shader online gallery and editor.
 
 ## Articles
 * [Intro Three.js](https://www.airtightinteractive.com/2013/02/intro-to-pixel-shaders-in-three-js/) - Introduction to Shaders in Three.js
