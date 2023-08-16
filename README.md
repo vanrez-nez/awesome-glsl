@@ -51,6 +51,7 @@ The following is a compilation of the best resources I have found in my way to l
 * [WebGL Shaders Intro](https://gamedevelopment.tutsplus.com/tutorials/getting-started-in-webgl-part-1-introduction-to-shaders--cms-26208) - A fliendly introduction.
 * [Ray Marching](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) Jamie Wong gives a great introduction to Ray Marching and Signed Distance Functions
 * [Color Correction](https://timseverien.com/posts/2020-06-19-colour-correction-with-webgl/) Great expanation about how colour manipulation works by Tim Severien
+* [WebGL Image Processing](https://maximmcnair.com/webgl-image-processing) - Covers a range of _Image Processing_ algorithms in WebGL such as Color Correction, Blend Modes, Thresholding, Dithering, Convolution and Film Grain.
 
 ## Books
 ## Tools
