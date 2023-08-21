@@ -14,6 +14,7 @@ The following is a compilation of the best resources I have found in my way to l
 
 ## Tutorials
 * [The book of Shaders](https://thebookofshaders.com/) - Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
+* [ An introduction to Shader Art Coding](https://youtu.be/f4s1h2YETNY) - Video tutuorial showing the basics of creating art with shaders. 
 * [CG from Scratch!](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading/) - Learn Computer Graphics From.
 * [Tutorial inside Shadertoy](https://www.shadertoy.com/view/Md23DV) - Tutorial Series made inside Shadertoy GLSL editor
 * [Shader School](https://github.com/stackgl/shader-school) - A workshopper for GLSL shaders and graphics programming
