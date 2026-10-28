@@ -61,6 +61,7 @@ The following is a compilation of the best resources I have found in my way to l
 * [Synthclipse](http://synthclipse.sourceforge.net/index.html) - Synthclipse is a GLSL shader prototyping tool.
 * [GLSLViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Live GLSL coding render for MacOS and Linux.
 * [GLSLScene](https://github.com/jwurzer/glslScene) - Provides an environment for testing and developing GLSL shader programs (Windows).
+* [Novaframe](https://www.novaframe.co.uk) - Desktop wallpaper engine rendering dynamic WebGL and interactive GLSL shader scenes. ([Source](https://github.com/novaframe-hq/novaframe-engine))
 
 # Videos
 * [Greg Tatum](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - 5 videos explaining how to implement lighting from scratch in WebGL.
