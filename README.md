@@ -45,6 +45,7 @@ The following is a compilation of the best resources I have found in my way to l
 * [Shader Gif](https://shadergif.com) - ShaderGif is a free and open source home for art made with code. Make sure not to miss the [gallery](https://shadergif.com/feed).
 * [KodeLife](https://hexler.net/kodelife) - Desktop and mobile GLSL real-time editor.
 * [Vertex Shader Art](https://www.vertexshaderart.com/) - Vertex Shader online gallery and editor.
+* [Shader Learn](https://shader-learn.com/) - Browser-based GLSL editor with live previews, editable examples, and English/Chinese lessons.
 
 ## Articles
 * [Intro Three.js](https://www.airtightinteractive.com/2013/02/intro-to-pixel-shaders-in-three-js/) - Introduction to Shaders in Three.js
